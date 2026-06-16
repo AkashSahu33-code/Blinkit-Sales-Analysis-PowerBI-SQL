@@ -26,9 +26,6 @@ The objective of this project is to:
 * Average Sales
 * Number of Items Sold
 * Average Customer Rating
-* Outlet Performance
-* Product Category Analysis
-* Inventory Visibility Metrics
 
 ---
 
@@ -40,7 +37,7 @@ The objective of this project is to:
 * Medium-sized outlets contributed over 42% of total sales
 * Fruits, vegetables, and snack foods emerged as top-performing product categories
 * Customer ratings remained consistently high across major outlet types
-
+* Evaluated outlet establishment year trends, identifying 2018-established outlets as top-performing segments with the highest overall sales contribution.
 ---
 
 # Dashboard Features
